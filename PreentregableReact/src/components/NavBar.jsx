@@ -14,11 +14,11 @@ function NavBar(){
                     <a href="">Categorias</a>
                     <a href="">Contacto</a>
                     <a href=""><CartWidget></CartWidget></a>
-                    <button className="nav-btn nav-close-btn" onClick={showNavbar()}>
+                    <button className="nav-btn nav-close-btn" onClick={showNavbar}>
                         <FaTimes/>
                     </button>
                 </nav>
-                <button className="nav-btn" onClick={showNavbar()}>
+                <button className="nav-btn" onClick={showNavbar}>
                     <FaBars/>
                 </button>
         </header>

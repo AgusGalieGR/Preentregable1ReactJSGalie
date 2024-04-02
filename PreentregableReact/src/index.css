@@ -65,6 +65,7 @@ header .nav-btn{
     justify-content: center;
     gap: 1.5rem;
     transition: 1s;
+    background-color: var(--mainColor);
     transform: translateY(-100%vh);
   }
   nav .responsive_nav{
