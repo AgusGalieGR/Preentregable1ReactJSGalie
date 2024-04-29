@@ -10,7 +10,6 @@ function App() {
       <Switch>
         <Route exact path="/" component={Inicio} />
         <Route exact path="/items" component={ItemListContainer} />
-        <Route path="/items/:id" component={ItemDetailContainer} />
       </Switch>
     </Router>
   );

@@ -1,8 +1,8 @@
 import React from 'react';
 const productos = [
-  { id: 1, nombre: 'Producto X', precio: 10 },
-  { id: 2, nombre: 'Producto Y', precio: 20 },
-  { id: 3, nombre: 'Producto Z', precio: 30 },
+  {id: 1, nombre: 'Producto X', precio: 1},
+  {id: 2, nombre: 'Producto Y', precio: 2},
+  {id: 3, nombre: 'Producto Z', precio: 3},
 ];
 
 function Inicio() {
